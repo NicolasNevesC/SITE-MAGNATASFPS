@@ -1,0 +1,41 @@
+body {
+
+
+    background-color: #0d0d0d;
+
+}
+
+#subject {
+
+    display: flex;
+
+    height: 100vh;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+    color: rgb(212, 255, 0);
+
+}
+
+.checkout {
+
+    background-color: rgba(30, 44, 32, 0.3);
+
+
+}
+
+.order {
+
+    padding-bottom: 500px;
+
+    opacity: 0.100;
+
+    color: rgb(212, 255, 0);
+
+
+    background-image: url("images/CIANO.jpg");
+
+
+}
+
